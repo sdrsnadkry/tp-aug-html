@@ -1,0 +1,21 @@
+h3 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+
+/* css selectors */
+
+
+/* # . */
+
+#random {
+    color: red;
+}
+
+.color-brown {
+    color: brown
+}
