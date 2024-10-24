@@ -1,3 +1,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+:root {
+    /* Brand colors */
+    --white: #ffffff;
+    --warning: #ffaa00;
+    --error: #e63946;
+    --primary: #00b36b;
+    --primary-bright: #70d6b4;
+    --primary-dark: #1f734f;
+    /* Gray scale colors */
+    --gray-50: #f2f2f2;
+    --gray-100: #e6e6e6;
+    --gray-200: #cccccc;
+    --gray-300: #b3b3b3;
+    --gray-400: #999999;
+    --gray-500: #808080;
+    --gray-600: #666666;
+    --gray-700: #4d4d4d;
+    --gray-800: #333333;
+    --gray-900: #1a1a1a;
+    /* Green gray scale colors */
+    --green-gray-50: #eff4f1;
+    --green-gray-100: #ddeae4;
+    --green-gray-200: #bfd6c0;
+    --green-gray-300: #9db99c;
+    --green-gray-400: #889e85;
+    --green-gray-500: #6d806b;
+    --green-gray-600: #526150;
+    --green-gray-700: #3d4d3c;
+    --green-gray-800: #283726;
+    --green-gray-900: #0e180e;
+}
