@@ -92,7 +92,11 @@ module.exports = {
       500: "500",
       600: "600",
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "hero-image": "url('/banner.jpeg')",
+      },
+    },
   },
   plugins: [],
 };
