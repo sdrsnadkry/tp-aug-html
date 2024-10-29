@@ -1,3 +1,4 @@
+import HeaderBottom from "./headerBottom";
 import HeaderMiddle from "./headerMiddle";
 import HeaderTop from "./headerTop";
 
@@ -6,6 +7,7 @@ const Header = () => {
     <div className="">
       <HeaderTop />
       <HeaderMiddle />
+      <HeaderBottom />
     </div>
   );
 };
